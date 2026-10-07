@@ -1,0 +1,9 @@
+{
+  "name": "Gemstone Atelier",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": { "GemstoneShared": { "$path": "src/shared" } },
+    "ServerScriptService": { "GemstoneServer": { "$path": "src/server" } },
+    "StarterPlayer": { "StarterPlayerScripts": { "GemstoneClient": { "$path": "src/client" } } }
+  }
+}
